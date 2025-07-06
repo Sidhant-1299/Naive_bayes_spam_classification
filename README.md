@@ -1,7 +1,5 @@
 # Naive Bayes Model for Spam Classification
 
-## Bayes Theorem# Naive Bayes Model for Spam Classification
-
 ## Bayes Theorem
 
 To understand Naive Bayes, we must first look at [Bayes' theorem](https://www.probabilitycourse.com/chapter1/1_4_3_bayes_rule.php):
